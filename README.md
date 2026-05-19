@@ -39,7 +39,3 @@ python scripts/inference.py --message "I was charged twice this month. Can you h
 ```bash
 streamlit run app/streamlit_app.py
 ```
-
-## CV bullet
-
-Fine-tuned a small open-source LLM for customer support response generation using LoRA/QLoRA, including instruction dataset preparation, response quality checks, and Streamlit deployment.
